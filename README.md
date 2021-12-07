@@ -18,11 +18,13 @@
 
 <h2>GitHub Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaruyaSuzuki&count_private=true&theme=gotham&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=HaruyaSuzuki&count_private=true&theme=gotham&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruyaSuzuki&theme=gotham&layout=compact" />
 </a>
+
+<br></br>
 
 <h2>GitHub Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
