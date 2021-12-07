@@ -9,13 +9,6 @@
 <img align="left" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs">
 <img src="https://img.shields.io/badge/Bash-708090?style=for-the-badge&logo=gnubash">
 
-
-
-<h2>42Tokyo</h2>
-<a href="https://github.com/JaeSeoKim/badge42">
-  <img src="https://badge42.herokuapp.com/api/stats/hasuzuki?cursus=C%20Piscine" />
-</a>
-
 <h2>GitHub Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=HaruyaSuzuki&count_private=true&theme=gotham&show_icons=true" />
@@ -24,7 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruyaSuzuki&theme=gotham&layout=compact" />
 </a>
 
-<h2>GitHub Profile Trophy</h2>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaruyaSuzuki&theme=tokyonight">
+<h2>42Tokyo</h2>
+<a href="https://github.com/JaeSeoKim/badge42">
+  <img src="https://badge42.herokuapp.com/api/stats/hasuzuki?cursus=C%20Piscine" />
 </a>
