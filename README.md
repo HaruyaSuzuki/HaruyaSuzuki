@@ -24,8 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruyaSuzuki&theme=gotham&layout=compact" />
 </a>
 
-<br></br>
-
 <h2>GitHub Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=HaruyaSuzuki&theme=tokyonight">
