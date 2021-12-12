@@ -16,8 +16,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaruyaSuzuki&theme=gotham&layout=compact" />
 </a>
-
-<h2>42Tokyo</h2>
-<a href="https://github.com/JaeSeoKim/badge42">
-  <img src="https://badge42.herokuapp.com/api/stats/hasuzuki?cursus=C%20Piscine" />
-</a>
